@@ -270,7 +270,7 @@ The application successfully demonstrates creating a Notification Channel, reque
 
 ### Output Screenshot
 
-<img width="1080" height="2358" alt="screenshot5 png" src="https://github.com/user-attachments/assets/3b4aac2f-7a31-4c7a-8781-22f854598b2b" />
+
 <img width="720" height="1600" alt="mad exp 5 (1)" src="https://github.com/user-attachments/assets/9fe4d8cb-929d-4e33-9f14-f9925b87813c" />
 <img width="720" height="1600" alt="mad exp 5 (2)" src="https://github.com/user-attachments/assets/1ee3a5fc-1cdd-4af1-a26d-90fcab9400fe" />
 
